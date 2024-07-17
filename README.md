@@ -18,5 +18,6 @@ Transaction Type: Visualized through bar charts, it highlights that Swipe transa
 Expenditure Type: Bills, Entertainment, Fuel, Grocery, Food, and Travel are the major categories, with Bills leading at 14 million. This segmentation helps understand where the majority of the spending is happening.
 Education: Graduates account for the highest revenue at 22 million, indicating a higher financial activity in this educational bracket. Other categories include High School, Unknown, Uneducated, Post-Graduates, and Doctorates.
 Profession: Business professionals top the chart with a revenue contribution of 17 million. Other significant categories include White-collar, Self-employed, Government, Blue-collar, and Retirees.
+
 **Summary**
 This Credit Card Transaction Report dashboard offers a robust analysis of credit card performance across different dimensions. By breaking down revenue, transaction amounts, and interest earned by card category, and providing quarterly performance trends and demographic insights, the dashboard empowers stakeholders to make informed decisions. It identifies key revenue drivers, highlights seasonal trends, and reveals spending behaviors of different customer segments. Such detailed analytics are crucial for strategic planning, marketing initiatives, and enhancing customer experience.
