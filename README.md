@@ -14,9 +14,13 @@ Demographic Insights
 The dashboard also segments data by demographics, providing valuable insights into customer behavior based on **gender, transaction type, expenditure type, education, and profession**.
 
 Gender: A filter allows for the segmentation of data between female and male cardholders, giving insights into gender-based usage patterns.
-Transaction Type: Visualized through bar charts, it highlights that Swipe transactions dominate with 35 million in revenue, followed by Chip transactions at 17 million, and Online transactions at 3 million.
+
+Transaction Type: Visualized through bar charts, it highlights that Swipe transactions dominate with 35 million in revenue, followed by Chip transactions at 17 million, and Online transactions at 3 million. 
+
 Expenditure Type: Bills, Entertainment, Fuel, Grocery, Food, and Travel are the major categories, with Bills leading at 14 million. This segmentation helps understand where the majority of the spending is happening.
+
 Education: Graduates account for the highest revenue at 22 million, indicating a higher financial activity in this educational bracket. Other categories include High School, Unknown, Uneducated, Post-Graduates, and Doctorates.
+
 Profession: Business professionals top the chart with a revenue contribution of 17 million. Other significant categories include White-collar, Self-employed, Government, Blue-collar, and Retirees.
 
 **Summary**
